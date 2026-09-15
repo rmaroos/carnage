@@ -1,1 +1,6 @@
+node_modules/
+dist/
 .workspace/
+.env
+.env.*
+!.env.example
